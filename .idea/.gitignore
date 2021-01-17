@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../PGDACProjectTest\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../:\PGDACProjectTest\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
